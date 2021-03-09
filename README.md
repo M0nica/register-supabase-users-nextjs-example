@@ -1,7 +1,9 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) that allows new users to be registered to a Supabase database.
 
 
 ## Getting Started
+Check out the article I wrote at https://aboutmonica.com/blog/creating-new-supabase-users-in-next-js/ for more context into how to use this example application.
+
 Setup a project in Supabase https://supabase.io/ and configure your env variables to have:
 
 export SUPABASE_KEY="SUPABASEKEYFROMSETTINGSSCREEN"

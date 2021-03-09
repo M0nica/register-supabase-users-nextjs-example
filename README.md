@@ -6,8 +6,11 @@ Check out the article I wrote at https://aboutmonica.com/blog/creating-new-supab
 
 Setup a project in Supabase https://supabase.io/ and configure your env variables to have:
 
+
+```bash
 export SUPABASE_KEY="SUPABASEKEYFROMSETTINGSSCREEN"
 export SUPABASE_URL="SUPABASEURLFROMSETTINGSSCREEN"
+```
 
 The key and URL values should be replaced with those found in your Supabase project.
 
